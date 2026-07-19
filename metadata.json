@@ -1,0 +1,8 @@
+{
+  "name": "오늘의 날씨 (Today's Weather)",
+  "description": "WeatherAPI를 활용하여 오늘의 실시간 날씨, 일기예보 및 상세 날씨 정보를 제공하는 아름답고 모던한 웹앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
